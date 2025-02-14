@@ -10,5 +10,6 @@ while AlturaActual >= AlturaInicial / 5:
     Rebotes += 1
     AlturaActual *= 0.9
 
-# Imprimir el resultado
-print(f"La pelota no alcanza a subir la quinta parte de la altura inicial en el rebote número {Rebotes}.")
+print("----------------------------------------------------------------------------------------------------")
+print(f"La pelota no alcanza a subir, la quinta parte de la altura inicial en el rebote número {Rebotes}.")
+print("----------------------------------------------------------------------------------------------------")
